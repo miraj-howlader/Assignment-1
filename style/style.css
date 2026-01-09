@@ -71,6 +71,9 @@
       color: #ffffff;
       padding: 100px 80px;
       text-align: center;
+      background-size: cover;      
+      background-repeat: no-repeat;  
+     background-position: center;
     }
 
     .badge {
